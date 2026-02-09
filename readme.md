@@ -65,15 +65,6 @@ A generative AI platform creating personalized motivational audio narratives.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Musa-Kal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Musa's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musa-Kal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 <div align="center">
   <a href="https://www.linkedin.com/in/musa-kal">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
