@@ -46,25 +46,6 @@ Currently, I'm deploying production AI infrastructure at **Xactsize** and automa
 
 ---
 
-### 📂 Featured Projects
-
-#### 🤖 [Smoll-LLM: GPT from Scratch](https://github.com/musa-kal/smoll-language-model)
-A decoder-only Transformer built from the ground up in PyTorch.
-* **Tech:** PyTorch, CUDA, Causal Self-Attention.
-* **Highlight:** Manually implemented the attention mechanism and training loop (AdamW) on the TinyShakespeare dataset.
-
-#### 🧮 [Omni: Custom Deep Learning Framework](https://github.com/Musa-Kal/Omni)
-A modular Neural Network library built on pure NumPy without auto-differentiation engines.
-* **Tech:** Python, NumPy, Linear Algebra.
-* **Highlight:** Implemented the Chain Rule and Mini-Batch SGD manually to train models to 90%+ accuracy on MNIST.
-
-#### 🎙️ [Journii: AI Health Platform](https://github.com/Musa-Kal/Journii)
-A generative AI platform creating personalized motivational audio narratives.
-* **Tech:** FastAPI, Google Vertex AI (Gemini), Supabase.
-* **Highlight:** Sub-100ms latency microservices architecture deployed on Cloud Run.
-
----
-
 <div align="center">
   <a href="https://www.linkedin.com/in/musa-kal">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
