@@ -4,8 +4,6 @@
 
 I am a developer based in **Ontario, Canada**, focused on bridging the gap between **Systems Engineering** and **Applied AI**. I don't just use libraries; I build them from scratch to understand the math behind the magic.
 
-Currently, I'm deploying production AI infrastructure at **Xactsize** and automating warehouse operations at **Amazon**.
-
 ---
 
 ### 🏆 Achievements
